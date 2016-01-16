@@ -571,6 +571,12 @@
         },
         "b35a1460619c7aebb19fddf043d4953d": {
             "text": "Bitte das Front-End-Seiten-Editor Modul installieren um die Front-End-Bearbeitung f\u00fcr Felder zu erm\u00f6glichen. Nach Installation, die Seite neu laden und hier weitere Optionen ausw\u00e4hlen."
+        },
+        "4b170345be16c4cee0984c08ab54614d": {
+            "text": "falls verwendet mit: %s"
+        },
+        "be777931cbea33cf8f3a5f5cd994ea93": {
+            "text": "\u00dcberschreiben einstellen f\u00fcr Feld Namensraum: %s"
         }
     }
 }
