@@ -5,41 +5,80 @@
         "00f6c76a7a83b1d7aab61a93e513e9d5": {
             "text": "Eingabefeld Typ"
         },
-        "88183b946cc5f0e8c96b2e66e1c74a7e": {
-            "text": "Unbekannt"
-        },
         "127852afa67b41673ab8ea17b383847c": {
             "text": "Dieser Feldtyp wird genutzt um Eingaben zu sammeln (Textarea ist Standard). Hinweis: falls Sie dies \u00e4ndern und best\u00e4tigen, k\u00f6nnen sich auch die m\u00f6glichen Optionen in den Einstellungen des Eingabefeldes \u00e4ndern."
         },
         "2effa58f13159d138a634233e246713d": {
             "text": "Inhaltstyp"
         },
-        "f0a7350231680497c534e592203a3b7b": {
-            "text": "Markup\/HTML mit Bilder Verwaltung"
-        },
-        "6579c1fdbe94982347736ad47f0949cb": {
-            "text": "Die Markup\/HTML Option (optional mit Bilder Verwaltung) wird empfohlen f\u00fcr Felder welche einen Rich Text Editor (TinyMCE, CKEditor, usw.) verwenden und HTML enthalten. Diese Option unterst\u00fctzt einen zus\u00e4tzlichen Filter zur Laufzeit."
-        },
-        "3e7a86573c428ffd2bf3145cea18514b": {
-            "text": "Die Auswahl der Option \"Markup\/HTML mit Bilder Verwaltung\" f\u00fcgt folgende \u00dcberpr\u00fcfungen w\u00e4hrend der Laufzeit hinzu:"
-        },
-        "2bc17a9602fb3fd33f9a6561c7b36177": {
-            "text": "1. Leere alt Attribute mit Dateibeschreibung f\u00fcllen - stellt sicher, dass ge\u00e4nderte Dateibeschreibungen im alt Attribut des <img> Tags wiedergegeben werden."
-        },
-        "5c84d65097148d9fa9a1be01e38c8f27": {
-            "text": "2. Automatisch nicht existierende Varianten der Bildgr\u00f6\u00dfe erstellen."
-        },
-        "0899ba8ac053ddbc869eac2bf0c9f458": {
-            "text": "3. Entfernt <img> Tags, welche auf eine nicht vorhandene Datei verweisen."
-        },
-        "a171deaa8f82c6e29796e95126fbd644": {
-            "text": "4. Fehlende Bilder werden in der Log-Datei \"markup-qa-errors\" protokolliert und der System\/Admin Benutzer benachrichtigt."
-        },
         "f49044eb0f5ff823c157a2feedf2b9f8": {
             "text": "Weitere Informationen zu den oben genannten Optionen finden Sie in der [Beschreibung f\u00fcr die Inhaltstypen](%s)."
         },
         "5d85f44b69f9d7e86c7f3f473f97f771": {
             "text": "="
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Unbekannt\/Text"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "Die [u]Markup\/HTML[\/u] Option wird empfohlen f\u00fcr Felder welche einen Rich Text Editor (wie CKEditor) verwenden und welche HTML enthalten. Diese Option unterst\u00fctzt einen zus\u00e4tzlichen Filter zur Laufzeit f\u00fcr die Qualit\u00e4tssicherung."
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "HTML Optionen"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "Die folgenen Optionen sorgen f\u00fcr eine zus\u00e4tzliche Qualit\u00e4tssicherung des HTML zur Laufzeit."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "**Hinweis:** Diese Optionen sind zur Zeit experimentell. Bitte achten Sie auf Probleme und melden alle Fehler."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Die oberen Optionen notieren Fehler unter Verwaltung > Protokolle > markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Link-Abstraktion:"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "Href-Attribute automatisch aktualisieren bei \u00c4nderung interner Links"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "Aktualisiere alt-Attribute der Bilder:"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Ersetze leere alt-Attribute mit der Bildbeschreibung"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Repariere defekte Bilder:"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Bilder Zugriff:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Entferne Bilder aus Markup zu welchen der Benutzer keine Berechtigung zur Ansicht hat"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "HTML Optionen jetzt anwenden"
+        },
+        "13cceada6efffa2e48a848da16009120": {
+            "text": "**Als zus\u00e4tzliche Vorsichtsmassnahme wird empfohlen, vor Durchf\u00fchrung Ihre Datenbank zu sichern.**"
+        },
+        "1b1622af3840b5f1282a7b1891a13902": {
+            "text": "%1$d von %2$d Seiten f\u00fcr HTML Optionen aktualisiert"
+        },
+        "bf6279f9204850b374cb625c002e6f04": {
+            "text": "%d interne(r) Link(s) abstrahiert"
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Falls Sie die Option [u]Unbekannt\/Text[\/u] ausw\u00e4hlen, wird (zur Sicherheit) dringend empfohlen, ebenfalls den \"HTML Entity Encoder\" im oberen Feld [u]Textformatierung[\/u] zu w\u00e4hlen."
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Entferne img Tags welche zu einem 404 f\u00fchren, oder erstelle Bilder neu, falls m\u00f6glich"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Markieren Sie diese Box, um die oberen Optionen nun auf alle bestehenden Seiten anzuwenden. Dies konzentriert sich haupts\u00e4chlich auf die Option der Link-Abstraktion."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Achtung, dies f\u00fchrt eine Aktualisierung von m\u00f6glicherweise hunderten von Seiten (max 300 pro Lauf) durch und akualisiert die \u00c4nderungszeit der Seite. Falls Ihre Site sehr viele Seiten hat, m\u00fcssen Sie mehrere L\u00e4ufe durchf\u00fchren."
         }
     }
 }

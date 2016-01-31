@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/MarkupQA.php",
+    "textdomain": "wire--core--markupqa-php",
+    "translations": {
+        "2c8c8cc955bc953e099536d83ba3f9be": {
+            "text": "es ist im Papierkorb"
+        },
+        "bb07bf84b3c2188ebdc8883e128685f8": {
+            "text": "Kann Link auf Seite %1$s in Feld \"%2$s\": %3$s nicht aufl\u00f6sen"
+        }
+    }
+}
