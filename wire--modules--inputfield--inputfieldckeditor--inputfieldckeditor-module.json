@@ -17,12 +17,6 @@
         "586dfebdb944d7af7c4720be84d7fa50": {
             "text": "Bild speichern"
         },
-        "941c891be23b6a837de1d46c30efad2a": {
-            "text": "Dieses Bild einf\u00fcgen"
-        },
-        "a616a1ef7aa1ee32d7d31c742923a202": {
-            "text": "Anderes Bild ausw\u00e4hlen"
-        },
         "a2a62a977b1825230f76d3ba2a6bf3df": {
             "text": "Der Inline-Modus des CKEditor ben\u00f6tigt das MarkupHTMLPurifier Modul. Nutze stattdessen den normalen Modus."
         },
@@ -214,6 +208,12 @@
         },
         "bb38096ab39160dc20d44f3ea6b44507": {
             "text": "="
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Bild einf\u00fcgen"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "Anderes Bild ausw\u00e4hlen"
         }
     }
 }
