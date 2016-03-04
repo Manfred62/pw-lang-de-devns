@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/ImageSizerEngine.php",
+    "textdomain": "wire--core--imagesizerengine-php",
+    "translations": {
+        "4aede3b538343c5323a0f900ca4fa255": {
+            "text": "Priorit\u00e4t der Anwendung"
+        },
+        "3d50ad624e49f81b1f9f836a3b70b57c": {
+            "text": "Dies bestimmt, in welcher Reihenfolge diese Anwendung in Bezug auf andere ImageSizerEngine-Module angewandt wird."
+        },
+        "7556d21eaf163cc3e4019e7c065df022": {
+            "text": "Je niedriger die Zahl, desto h\u00f6her die Priorit\u00e4t."
+        },
+        "c57c3b5a8e7466e2c2940704b60d2a42": {
+            "text": "Falls Sie weitere ImageSizerEngine-Module installiert haben, achten Sie darauf dass nicht zwei die gleiche Priorit\u00e4t haben."
+        }
+    }
+}

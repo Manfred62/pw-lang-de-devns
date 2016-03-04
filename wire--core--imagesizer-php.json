@@ -1,0 +1,9 @@
+{
+    "file": "wire\/core\/ImageSizer.php",
+    "textdomain": "wire--core--imagesizer-php",
+    "translations": {
+        "2fb04c14416b5fbcdb850bbedbe5dfe8": {
+            "text": "Offenbar wird die GD-Bibliothek f\u00fcr Bilder auf ihrem Host nicht unterst\u00fctzt?"
+        }
+    }
+}
