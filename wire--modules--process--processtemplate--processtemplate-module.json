@@ -935,14 +935,50 @@
         "3797b58404902683867d788211ac5ce2": {
             "text": "Kompilierte Datei verwenden?"
         },
-        "b55ab85a8d8abe51c42f90d2cd3ae1ad": {
-            "text": "Erm\u00f6glicht ProcessWire Ihre Template-Datei f\u00fcr den Namensraum zu aktualisieren und beliebige installierte DateiKompiler Module auszuf\u00fchren. Wird empfohlen, solange es keine Fehler mit ihrer Template-Datei gibt."
-        },
-        "549920aca582e9418dc31ce4c9f516fd": {
-            "text": "(und eingeschlossene Dateien)"
-        },
         "422d6e51e28831664b5c0b701b6c6182": {
             "text": "(nur Template-Datei)"
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Notwendige Feld-Aktion"
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Welche Aktion soll ausgef\u00fchrt werden, wenn eine bereits ver\u00f6ffentlichte Seite mit einem fehlenden Pflichtfeld gespeichert wurde?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Benutzer \u00fcber Fehler alarmieren (Standard)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Vorherigen Wert wiederherstellen (falls vorhanden)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Seite nicht ver\u00f6ffentlichen (falls erlaubt)"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Erm\u00f6glicht ProcessWire Ihre Template-Datei f\u00fcr den ProcessWire Namensraum zu aktualisieren und beliebige installierte DateiKompiler Module auszuf\u00fchren."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "Wird zumindest  f\u00fcr Template-Dateien empfohlen, welche keinen ProcessWire Namensraum verwenden (wie solche von PW 2.x Seiten)."
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Falls Sie nicht sicher sind, w\u00e4hlen Sie \"Auto\"."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(deaktiviert Compiler)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Auto (kompilieren wenn Datei keinen Namensraum hat)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(Template-Datei und eingeschlossene Dateien)"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Festgestellter Template-Datei-Namensraum ist \"%s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Kompilierung empfohlen."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Kompilieren nicht notwendig, sofern nicht f\u00fcr Module oder Includes ben\u00f6tigt."
         }
     }
 }

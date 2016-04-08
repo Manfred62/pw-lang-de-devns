@@ -217,6 +217,12 @@
         },
         "407911b74ab384304ea0190675a00894": {
             "text": "%s + Neu hinzuf\u00fcgen"
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Wiederhergestellter vorheriger Wert"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "Seite unver\u00f6ffentlicht weil Feld \"%s\" ein Pflichtfeld ist"
         }
     }
 }
