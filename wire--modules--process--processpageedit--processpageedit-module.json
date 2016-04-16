@@ -81,7 +81,7 @@
             "text": "In den Papierkorb verschieben"
         },
         "4351cfebe4b61d8aa5efa1d020710005": {
-            "text": "Ansehen"
+            "text": "Anzeigen"
         },
         "bbbabdbe1b262f75d99d62880b953be1": {
             "text": "Rolle"
@@ -213,7 +213,7 @@
             "text": "%s + Beenden"
         },
         "1040873c1bf94b1995201c648a15989d": {
-            "text": "%s + Ansehen"
+            "text": "%s + Anzeigen"
         },
         "407911b74ab384304ea0190675a00894": {
             "text": "%s + Neu hinzuf\u00fcgen"
@@ -223,6 +223,27 @@
         },
         "f3e0ef028ad1fda84b2b567684c67846": {
             "text": "Seite unver\u00f6ffentlicht weil Feld \"%s\" ein Pflichtfeld ist"
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Standard Bereich\/Aktion bei \"Anzeigen\""
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "Die standardm\u00e4\u00dfig genutzte Aktion wenn im Seiten-Editor der \"Ansehen\" Tab geklickt wird."
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Seitenansicht"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "="
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "="
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Neues Fenster\/Tab"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Schliessen + Anzeigen"
         }
     }
 }

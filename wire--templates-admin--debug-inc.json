@@ -52,6 +52,9 @@
         },
         "3d7ce213fb1c2bec707c0fac7b1999e2": {
             "text": "Automatisches laden"
+        },
+        "38dee61bfa5e86e18c76e272c4c830fa": {
+            "text": "Den Debug Modus nicht aktiviert lassen in Live\/Produktions-Umgebungen (siehe $config->debug in Datei \/site\/config.php)."
         }
     }
 }
