@@ -70,6 +70,12 @@
         },
         "189f63f277cd73395561651753563065": {
             "text": "="
+        },
+        "b15dd49c58da836d9802f6e9e063a998": {
+            "text": "Datei \"%1$s\" umbenannt zu \"%2$s\""
+        },
+        "d7c8c85bf79bbe1b7188497c32c3b0ca": {
+            "text": "Fehlgeschlagen"
         }
     }
 }
