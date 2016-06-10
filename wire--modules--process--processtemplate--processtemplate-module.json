@@ -979,6 +979,15 @@
         },
         "9b404a9b5976b30bf436e218068b3d4d": {
             "text": "Kompilieren nicht notwendig, sofern nicht f\u00fcr Module oder Includes ben\u00f6tigt."
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Unterst\u00fctzung mehrerer Sprachen f\u00fcr dieses Template deaktivieren?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Falls ausgew\u00e4hlt, werden Seiten, welche dieses Template nutzen, nur die Standard-Sprache verwenden."
+        },
+        "2ae2316266d64c1c1caa543c16fe62bc": {
+            "text": "API: $template->noLang = 1; \/\/ Standard ist 0."
         }
     }
 }
