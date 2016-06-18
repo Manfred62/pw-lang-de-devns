@@ -91,6 +91,24 @@
         },
         "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
             "text": "Es gibt oben Thumbnail Vorschaubilder die \u00e4lter oder in geringerer Qualit\u00e4t sind - diese Box markieren zur Neuerstellung der Bilder."
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Standardmodus des Bildrasters"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "Im Adminbereich wird die Liste der Bilder standardm\u00e4\u00dfig in diesem Modus dargestellt. Der Benutzer kann es jederzeit \u00e4ndern, durch klicken auf die Symbole in der oberen rechten Ecke des Feldes."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Falls Sie dieses Bilder-Feld gerade erst benutzt haben, m\u00fcssen Sie zuerst die Cookies l\u00f6schen, bevor man die ver\u00e4nderte Einstellung sieht."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Rechteckiges Bildraster"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Proportionales Bildraster"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Vertikale Liste (wortreich)"
         }
     }
 }
