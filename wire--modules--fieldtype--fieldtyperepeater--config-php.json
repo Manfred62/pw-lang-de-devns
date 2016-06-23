@@ -133,6 +133,12 @@
         },
         "678e17a04cd1c42a28cc8a9eff4f60c0": {
             "text": "Repeater-Felder"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Ge\u00f6ffnete Repeater-Elemente beibehalten?"
+        },
+        "031e3292fe279734b454896226066dfc": {
+            "text": "Wenn markiert, bleiben ge\u00f6ffnete Repeater-Elemente nach dem Speichern oder neuladen im Seiten-Editor offen (es sei denn, der Benutzer schliesst sie)."
         }
     }
 }

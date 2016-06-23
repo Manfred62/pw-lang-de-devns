@@ -73,6 +73,12 @@
         },
         "d710b0151d568a1efa24617b78fa1f25": {
             "text": "Dieses Modul ist ein Feldtyp, welcher im Moment von einem oder mehreren Feldern genutzt wird"
+        },
+        "7ac5a75a8a79dc9b9e8d40dbed9c4124": {
+            "text": "Modul %s ben\u00f6tigt: %s"
+        },
+        "dc3fd488f03d423a04da27ce66274c1b": {
+            "text": "Warnung!"
         }
     }
 }

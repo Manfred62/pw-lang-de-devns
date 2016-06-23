@@ -28,6 +28,24 @@
         },
         "9b73fd4d710e72a212bfc7dbe5692405": {
             "text": "ZIP herunterladen"
+        },
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "="
+        },
+        "3f045b24a15220ad5572f3ad51dd80e0": {
+            "text": "CSV \u00dcbersetzungsdatei wird nach dem Speichern importiert"
+        },
+        "54df9536f2bc89e18bec27b0d34ab42e": {
+            "text": "CSV herunterladen"
+        },
+        "b012fb6e4f8ea5ec13a5797b60145bb3": {
+            "text": "Nicht erkannte Textdomain f\u00fcr Datei: %s"
+        },
+        "8d8b8c1b707b1cc979c41ca7cb2a2020": {
+            "text": "In Summe %d \u00dcbersetzungen, %d \u00c4nderungen"
+        },
+        "610d28b5e07bce623b5dcbcefc043344": {
+            "text": "%d \u00c4nderung(en) gespeichert f\u00fcr Datei: %s"
         }
     }
 }
