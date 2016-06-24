@@ -46,6 +46,21 @@
         },
         "610d28b5e07bce623b5dcbcefc043344": {
             "text": "%d \u00c4nderung(en) gespeichert f\u00fcr Datei: %s"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "Live Suche"
+        },
+        "585cff0204f1e344b4ea709b6e2928b4": {
+            "text": "Gesuchter Text"
+        },
+        "59b2ae438ca9f446f5cd4d79d3395446": {
+            "text": "Hier klicken um Index der Phrasen-Suche aufzubauen"
+        },
+        "038126bcfc832f08d96c331d0316f5da": {
+            "text": "Durchsuche alle \u00fcbersetzbaren Dateien nach spezifischem Text\/Phrase."
+        },
+        "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
+            "text": "Gefundene Treffer anklicken, um \u00dcbersetzung zu bearbeiten oder um Datei hinzuzuf\u00fcgen (falls noch nicht vorhanden)."
         }
     }
 }
