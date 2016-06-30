@@ -188,9 +188,6 @@
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Dieses Template duplizieren\/klonen?"
         },
-        "b69fde670b130ace1c7890c8be5b289b": {
-            "text": "W\u00e4hlen Sie die unten stehende Box aus, wenn sie ein Duplikat\/einen Klon dieses Templates anlegen m\u00f6chten. Der Klon wird angelegt, wenn Sie speichern. Falls Ihr Template-Verzeichnis beschreibbar ist und dem Template eine Datei zugeordnet ist, wird diese ebenfalls geklont."
-        },
         "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
             "text": "Alternativer Template-Dateiname"
         },
@@ -400,9 +397,6 @@
         },
         "ce79a399cbe0a2128106c428d5f5227c": {
             "text": "Template gespeichert: %s"
-        },
-        "0ad1fc6237db839537da704c90b40c53": {
-            "text": "Klon des Templates \"%1$s\" namens \"%2$s\" erstellt. Sie k\u00f6nnen den Klon umbenennen, indem Sie \"%2$s\" bearbeiten und das \"Erweitert\"-Tab \u00f6ffnen."
         },
         "dbb2a9bf7f53894204e7b75a4a323fa2": {
             "text": "Fehler beim duplizieren dieses Templates"
@@ -988,6 +982,18 @@
         },
         "2ae2316266d64c1c1caa543c16fe62bc": {
             "text": "API: $template->noLang = 1; \/\/ Standard ist 0."
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Geben Sie den Namen des neuen zu erstellenden Templates an. Der Klon wird angelegt, wenn Sie speichern. Falls Ihr Template-Verzeichnis beschreibbar ist und dem Template eine Datei zugeordnet ist, wird diese ebenfalls geklont."
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "Ung\u00fcltiger Templatename zum klonen festgelegt"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "Klonen nicht m\u00f6glich weil ein Template mit diesem Namen bereits existiert"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Klon von Template \"%1$s\" erstellt mit Namen \"%2$s\"."
         }
     }
 }
