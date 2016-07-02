@@ -180,7 +180,7 @@
             "text": "Angelegt vom Benutzer"
         },
         "421318b075c43ddcd5426197f778c43c": {
-            "text": "Kann nicht gespeichert werden, eher Fehler korrigiert wurden."
+            "text": "Kann nicht gespeichert werden, bevor Fehler korrigiert wurden"
         },
         "265dabf958cffe4bf96d445dcddf8678": {
             "text": "%d \u00c4nderung"
@@ -244,6 +244,12 @@
         },
         "7e7b8eaf9921d2a698937d925748e85b": {
             "text": "Schliessen + Anzeigen"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + N\u00e4chste"
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Es gibt keine weitere bearbeitbare Seite."
         }
     }
 }
