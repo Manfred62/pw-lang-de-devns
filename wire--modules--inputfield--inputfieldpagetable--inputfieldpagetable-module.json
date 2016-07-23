@@ -21,13 +21,13 @@
             "text": "Sie k\u00f6nnen jedes vorgegebene oder eigene Felder angeben. Sie k\u00f6nnen ebenso Subfelder (field.subfield) verwenden, mit Feldern welche mehrere Eigenschaften beinhalten, wie page references."
         },
         "c775db1b4b86e060f703a4e7cedc292f": {
-            "text": "Eigene Felder, welche ihren ausgew\u00e4hlten Templates zugewiesen sind, beinhalten folgendes:"
+            "text": "Eigene Felder, welche Ihren ausgew\u00e4hlten Templates zugewiesen sind, beinhalten folgendes:"
         },
         "8ea5a88f78fabcfdc906c9cb8ec013f2": {
-            "text": "Um hier eine Liste der m\u00f6glichen eigenen Felder zu sehen, w\u00e4hlen Sie ein Template im Details Tab. Dann speichern und dies erneut aufrufen."
+            "text": "Um hier eine Liste der m\u00f6glichen eigenen Felder zu sehen, w\u00e4hlen Sie ein Template im Details-Tab. Dann speichern und dies erneut aufrufen."
         },
         "34ff6bbc0c075f35e92dc68a218b7cc2": {
-            "text": "Automatisches Format f\u00fcr Seiten Namen"
+            "text": "Automatisches Format f\u00fcr Seiten-Namen"
         },
         "9264201faa8a6ca75fc27583eafe1e88": {
             "text": "Wenn ausgef\u00fcllt, werden Seiten mit dem \"Neu hinzuf\u00fcgen\" Button automatisch erstellt, unter Verwendung dieses Namens-Formats. Wenn leer, wird der Nutzer aufgefordert, einen Namen einzugeben, bevor die Seite erstellt wird."
@@ -66,7 +66,7 @@
             "text": "Eingabefeld erg\u00e4nzend zu FieldtypePageTable"
         },
         "ff63ad7fe05686c64e062c5c034ad04f": {
-            "text": "Kindseiten gefunden, welche zu dieser Tabelle hinzugef\u00fcgt werden k\u00f6nnen. Zum hinzuf\u00fcgen jeweils die nebenstehende Box markieren."
+            "text": "Kindseiten gefunden, welche zu dieser Tabelle hinzugef\u00fcgt werden k\u00f6nnen. Zum Hinzuf\u00fcgen jeweils die nebenstehende Box markieren."
         },
         "4c41e0bd957698b58100a5c687d757d9": {
             "text": "Alle ausw\u00e4hlen"
