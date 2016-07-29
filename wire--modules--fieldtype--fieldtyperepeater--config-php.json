@@ -71,9 +71,6 @@
         "9c539ab2317d7056d5d664b083557796": {
             "text": "Es gibt **%d** alte\/ungenutzte Repeater-Elemente. Zum l\u00f6schen diese Box markieren."
         },
-        "949ba1b245c883973bff1b4e0bd796a1": {
-            "text": "Ein Repeater-Element wird als alt bezeichnet wenn es mindestens 3 Tage alt ist und noch nicht bef\u00fcllt oder ver\u00f6ffentlicht wurde."
-        },
         "8c4f6c33cbae4831021c3dc17c991a23": {
             "text": "AJAX f\u00fcr das hinzuf\u00fcgen von Elementen im Editor deaktivieren"
         },
@@ -139,6 +136,9 @@
         },
         "031e3292fe279734b454896226066dfc": {
             "text": "Wenn markiert, bleiben ge\u00f6ffnete Repeater-Elemente nach dem Speichern oder neuladen im Seiten-Editor offen (es sei denn, der Benutzer schliesst sie)."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Ein Repeater-Element wird als alt bezeichnet, wenn es mindestens 3 Tage alt ist und noch nicht bef\u00fcllt oder ver\u00f6ffentlicht wurde."
         }
     }
 }
