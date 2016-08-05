@@ -23,9 +23,6 @@
         "3a08e2e340ab29fd9263af48193cbf8e": {
             "text": "Sprachen"
         },
-        "4b58cc72fab0b5fb596e9f02091ec0fe": {
-            "text": "Datei \u00fcbersetzen"
-        },
         "9b73fd4d710e72a212bfc7dbe5692405": {
             "text": "ZIP herunterladen"
         },
@@ -61,6 +58,9 @@
         },
         "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
             "text": "Gefundene Treffer anklicken, um \u00dcbersetzung zu bearbeiten oder um Datei hinzuzuf\u00fcgen (falls noch nicht vorhanden)."
+        },
+        "7ccfd146fb192231dafacaa68c6fad13": {
+            "text": "Dateien \u00fcbersetzen"
         }
     }
 }
