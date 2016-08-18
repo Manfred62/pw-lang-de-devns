@@ -994,6 +994,9 @@
         },
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Klon von Template \"%1$s\" erstellt mit Namen \"%2$s\"."
+        },
+        "1ad747442af37649526e00927b7d0a1f": {
+            "text": "Zur Konfiguration der m\u00f6glichen Felder, welche ein Benutzer in seinem Profil bearbeiten kann, siehe in den [Einstellungen des Profilmoduls](%s)."
         }
     }
 }
