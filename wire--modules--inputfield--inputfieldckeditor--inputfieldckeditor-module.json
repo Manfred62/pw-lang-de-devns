@@ -214,6 +214,9 @@
         },
         "0d1fae9f57cbc9a014f1c96baeef3911": {
             "text": "Anderes Bild ausw\u00e4hlen"
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "Z\u00e4hler werden in regul\u00e4ren CKEditor Feldern unterst\u00fctzt, aber nicht in inline CKEditor Feldern."
         }
     }
 }
