@@ -59,9 +59,6 @@
         "bfacb0dba61ee131e07daaacead869c5": {
             "text": "Grundlegende Einstellungen des Feldes"
         },
-        "5efc010f527cdfeaa2ef63b1c6898fb5": {
-            "text": "Jede Kombination aus ASCII-Buchstaben [a-z], Zahlen [0-9] und Unterstrich(en) (keine Bindestriche oder Leerzeichen)."
-        },
         "ab2e4f95a7971ee8077df62efa20d437": {
             "text": "Nachdem Sie den Feld-Typ gew\u00e4hlt und gespeichert haben, werden Ihnen vielleicht zus\u00e4tzliche spezifische Konfigurationsoptionen zum gew\u00e4hlten Feld-Typ angezeigt."
         },
@@ -574,6 +571,9 @@
         },
         "57a9412e7a9b1f328ffef4cd468dabeb": {
             "text": "Als erstes Feld hinzuf\u00fcgen"
+        },
+        "927e2bece8a3ee4ce5f53aca157c04ec": {
+            "text": "Nur ASCII-Buchstaben (a-z A-Z), Zahlen (0-9) und Unterstriche verwenden."
         }
     }
 }
