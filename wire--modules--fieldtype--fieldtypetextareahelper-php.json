@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
     "translations": {
         "00f6c76a7a83b1d7aab61a93e513e9d5": {
-            "text": "Eingabefeld Typ"
+            "text": "Eingabefeld-Typ"
         },
         "127852afa67b41673ab8ea17b383847c": {
             "text": "Dieser Feldtyp wird genutzt um Eingaben zu sammeln (Textarea ist Standard). Hinweis: falls Sie dies \u00e4ndern und best\u00e4tigen, k\u00f6nnen sich auch die m\u00f6glichen Optionen in den Einstellungen des Eingabefeldes \u00e4ndern."
@@ -18,7 +18,7 @@
             "text": "Unbekannt\/Text"
         },
         "d337592463bb66726521716a080b78da": {
-            "text": "Die [u]Markup\/HTML[\/u] Option wird empfohlen f\u00fcr Felder welche einen Rich Text Editor (wie CKEditor) verwenden und welche HTML enthalten. Diese Option unterst\u00fctzt einen zus\u00e4tzlichen Filter zur Laufzeit f\u00fcr die Qualit\u00e4tssicherung."
+            "text": "Die [u]Markup\/HTML[\/u] Option wird empfohlen f\u00fcr Felder, welche einen Rich-Text-Editor (wie CKEditor) verwenden und welche HTML enthalten. Diese Option unterst\u00fctzt einen zus\u00e4tzlichen Filter zur Laufzeit f\u00fcr die Qualit\u00e4tssicherung."
         },
         "0601bf716a208a7476c5f97c040fc44c": {
             "text": "Falls Sie die Option [u]Unbekannt\/Text[\/u] ausw\u00e4hlen, wird (zur Sicherheit) dringend empfohlen, ebenfalls den \"HTML Entity Encoder\" im oberen Feld [u]Textformatierung[\/u] zu w\u00e4hlen."
@@ -27,7 +27,7 @@
             "text": "Weitere Informationen zu den oben genannten Optionen finden Sie in der [Beschreibung f\u00fcr die Inhaltstypen](%s)."
         },
         "2addde1795e171e77196f84ba88dbcbf": {
-            "text": "HTML Optionen"
+            "text": "HTML-Optionen"
         },
         "22f8b4c1c9e9fb845bebab08141575db": {
             "text": "Die folgenen Optionen sorgen f\u00fcr eine zus\u00e4tzliche Qualit\u00e4tssicherung des HTML zur Laufzeit."
@@ -54,7 +54,7 @@
             "text": "Repariere defekte Bilder:"
         },
         "1d88fc19dbd058dc84585c30ab49b306": {
-            "text": "Entferne img Tags welche zu einem 404 f\u00fchren, oder erstelle Bilder neu, falls m\u00f6glich"
+            "text": "Entferne img-Tags welche zu einem 404 f\u00fchren, oder erstelle Bilder neu, falls m\u00f6glich"
         },
         "3b51a8c40e3436386b687d45ddb5f836": {
             "text": "Bilder Zugriff:"
@@ -63,7 +63,7 @@
             "text": "Entferne Bilder aus Markup zu welchen der Benutzer keine Berechtigung zur Ansicht hat"
         },
         "8ab4f511bd5b2971beecbe09b1462818": {
-            "text": "HTML Optionen jetzt anwenden"
+            "text": "HTML-Optionen jetzt anwenden"
         },
         "5fe0528e0c4b792b394749289ad392f1": {
             "text": "Markieren Sie diese Box, um die oberen Optionen nun auf alle bestehenden Seiten anzuwenden. Dies konzentriert sich haupts\u00e4chlich auf die Option der Link-Abstraktion."
@@ -75,7 +75,7 @@
             "text": "**Als zus\u00e4tzliche Vorsichtsmassnahme wird empfohlen, vor Durchf\u00fchrung Ihre Datenbank zu sichern.**"
         },
         "0f754c670b9d8c02b22eaeebd630181e": {
-            "text": "Alles erledigt! Die HTML Optionen sind nun vollst\u00e4ndig angewendet."
+            "text": "Alles erledigt! Die HTML-Optionen sind nun vollst\u00e4ndig angewendet."
         },
         "2029a900eb62eecaaf188a654c2c084d": {
             "text": "Zuk\u00fcnftige Aktualisierungen werden automatisch beim speichern einer Seite angewendet."
@@ -102,7 +102,7 @@
             "text": "Zusammenfassung der Markup\/HTML Qualit\u00e4tssicherung:"
         },
         "7b538279515341a88a5fcfb4197111f6": {
-            "text": "Andere HTML Optionen wurden zur Laufzeit angewendet."
+            "text": "Andere HTML-Optionen wurden zur Laufzeit angewendet."
         },
         "9b039b000924bae6bb0977867cc455a0": {
             "text": "%d externe a[href] Tags"

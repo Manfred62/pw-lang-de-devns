@@ -9,7 +9,7 @@
             "text": "Maximale Bild-Dimensionen"
         },
         "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Sie k\u00f6nnen optional die maximale Breite und\/oder H\u00f6he hochgeladenener Bilder angeben. Falls angegeben werden Bilder beim Hochladen verkleinert, wenn sie entweder die maximale H\u00f6he oder Breite \u00fcberschreiten. Die Verkleinerung wird nur beim Hochladen ausgef\u00fchrt und betrifft daher weder Bilder, die bereits im System vorhanden sind, noch Bilder, die \u00fcber die API hinzugef\u00fcgt werden."
+            "text": "Sie k\u00f6nnen optional die maximale Breite und\/oder H\u00f6he hochgeladenener Bilder angeben. Falls angegeben werden Bilder beim Hochladen verkleinert, wenn sie entweder die maximale H\u00f6he oder Breite \u00fcberschreiten. Die Verkleinerung wird nur beim Hochladen ausgef\u00fchrt und betrifft daher weder Bilder, die bereits im System vorhanden sind, noch Bilder die \u00fcber die API hinzugef\u00fcgt werden."
         },
         "e69ccb31941d2fd7923c6b0c01957db3": {
             "text": "Maximale Breite f\u00fcr hochgeladene Bilder"
@@ -27,19 +27,19 @@
             "text": "Nicht zul\u00e4ssiges Bild"
         },
         "41cfe40655c4b51507eff9d22bd777f2": {
-            "text": "Bild von %s entspricht nicht der Mindest-Gr\u00f6\u00dfe"
+            "text": "Bild von %s entspricht nicht der Mindestgr\u00f6\u00dfe"
         },
         "6760d392e57247a882e160cdb8b3680c": {
             "text": "Minimale Bild-Dimensionen"
         },
         "a195023920e6ece61b6211755c9af27f": {
-            "text": "Optional kann die Mindest-Breite und \/oder -H\u00f6he der hochzuladenden Bilder eingetragen werden. Falls festgelegt, werden Bilder mit nicht zutreffenden Werten abgewiesen."
+            "text": "Optional kann die Mindestbreite und \/oder -h\u00f6he der hochzuladenden Bilder eingetragen werden. Falls festgelegt, werden Bilder mit nicht zutreffenden Werten abgewiesen."
         },
         "d704e5da0e9e4ca2aa3e04201575f44c": {
-            "text": "Mindest Breite f\u00fcr hochgeladene Bilder"
+            "text": "Mindestbreite f\u00fcr hochgeladene Bilder"
         },
         "b477617de997199bdd26761085aea486": {
-            "text": "Mindest H\u00f6he f\u00fcr hochgeladene Bilder"
+            "text": "Mindesth\u00f6he f\u00fcr hochgeladene Bilder"
         },
         "1a2b9bdaad8fc3ebd6b83463a0def69e": {
             "text": "Geben Sie den Wert in Pixeln an oder lassen Sie es leer, um kein Limit vorzugeben."
@@ -75,7 +75,7 @@
             "text": "N\/V"
         },
         "d6a369d29506d3151a76c33791fc80b6": {
-            "text": "zum Ersetzen neue Bild-Datei einf\u00fcgen"
+            "text": "zum Ersetzen neue Bilddatei einf\u00fcgen"
         },
         "f0823f4faa69306cc75fd14c8e5e38e3": {
             "text": "bestehende Thumbnails werden beim Speichern wieder hergestellt"
@@ -87,10 +87,10 @@
             "text": "Alle alten Thumbnails wieder hergestellt"
         },
         "f4795ac01103c68bc75e637665b7bd12": {
-            "text": "Dieses Bilder-Feld k\u00f6nnte noch nicht gesicherte \u00c4nderungen haben, welche nach dieser Aktion verloren gehen. Bitte vor dem zuschneiden speichern oder mit Doppel-Klick des Buttons fortfahren."
+            "text": "Dieses Bilderfeld k\u00f6nnte noch nicht gesicherte \u00c4nderungen haben, welche nach dieser Aktion verloren gehen. Bitte vor dem zuschneiden speichern oder mit Doppel-Klick des Buttons fortfahren."
         },
         "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
-            "text": "Es gibt oben Thumbnail Vorschaubilder die \u00e4lter oder in geringerer Qualit\u00e4t sind - diese Box markieren zur Neuerstellung der Bilder."
+            "text": "Es gibt oben Thumbnail-Vorschaubilder die \u00e4lter oder in geringerer Qualit\u00e4t sind - diese Box markieren zur Neuerstellung der Bilder."
         },
         "34ad9feb46d0ae8a8ab105230c7e5e1a": {
             "text": "Standardmodus des Bildrasters"
